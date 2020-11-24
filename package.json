@@ -1,6 +1,6 @@
 {
   "name": "sweettracker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "description": "📦 - Unofficial sweettracker SDK for Node.js",
   "repository": "https://github.com/danieluhm2004/sweettracker.git",
