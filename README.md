@@ -1,4 +1,4 @@
-# SweetTracker SDK
+# SweetTracker(스윗트래커) SDK
 
 ## 📦 - Unofficial sweettracker SDK for Node.js
 
@@ -7,14 +7,16 @@ You can easily search for delivery information.
 
 **Table of Contents**
 
-- [How does it work?](#how-does-it-work)
-- [Install](#install)
-- [Usage](#usage)
-  - [Create SweetTracker Client](#create-sweettracker-client)
-  - [Get Companies](#get-companies)
-  - [Get Recommended Companies](#get-recommended-companies)
-  - [Get Tracking Information](#get-tracking-information)
-- [License](#license)
+- [SweetTracker(스윗트래커) SDK](#sweettracker스윗트래커-sdk)
+  - [📦 - Unofficial sweettracker SDK for Node.js](#---unofficial-sweettracker-sdk-for-nodejs)
+  - [How does it work?](#how-does-it-work)
+  - [Install](#install)
+  - [Usage](#usage)
+    - [Create SweetTracker Client](#create-sweettracker-client)
+    - [Get Companies](#get-companies)
+    - [Get Recommended Companies](#get-recommended-companies)
+    - [Get Tracking Information](#get-tracking-information)
+  - [License](#license)
 
 ## How does it work?
 

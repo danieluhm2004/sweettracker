@@ -1,6 +1,6 @@
 {
   "name": "sweettracker",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "description": "📦 - Unofficial sweettracker SDK for Node.js",
@@ -15,7 +15,9 @@
     "sweettracker",
     "delivery",
     "sdk",
-    "api"
+    "api",
+    "스윗트래커",
+    "스마트택배"
   ],
   "scripts": {
     "lint": "eslint .",
@@ -24,21 +26,21 @@
     "clean": "rm -rf dist/"
   },
   "dependencies": {
-    "got": "^11.8.0"
+    "got": "^11.8.2"
   },
   "devDependencies": {
-    "@types/eslint": "^7.2.5",
+    "@types/eslint": "^7.28.0",
     "@types/eslint-plugin-prettier": "^3.1.0",
-    "@types/node": "^14.14.9",
-    "@types/prettier": "^2.1.5",
+    "@types/node": "^16.6.1",
+    "@types/prettier": "^2.3.2",
     "@types/tsc-watch": "4.2.0",
-    "@typescript-eslint/eslint-plugin": "^4.8.1",
-    "@typescript-eslint/parser": "^4.8.1",
-    "eslint": "^7.14.0",
-    "eslint-config-prettier": "^6.15.0",
-    "eslint-plugin-prettier": "^3.1.4",
-    "prettier": "^2.2.0",
-    "tsc-watch": "4.1.0",
-    "typescript": "^4.1.2"
+    "@typescript-eslint/eslint-plugin": "^4.29.2",
+    "@typescript-eslint/parser": "^4.29.2",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.3.2",
+    "tsc-watch": "4.4.0",
+    "typescript": "^4.3.5"
   }
 }
